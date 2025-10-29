@@ -1,4 +1,5 @@
 🧩 Fun On-Chain Memory Puzzle
+![Uploading image.png…]()
 
 A simple and fair "memory puzzle" smart contract written in Solidity. This project is a perfect starting point for beginners to learn about state management, pseudo-randomness, and the core concepts of building a simple game on the Ethereum blockchain.
 
