@@ -1,4 +1,4 @@
-> <img width="1920" height="1020" alt="Screenshot 2025-10-29 140213" src="https://github.com/user-attachments/assets/286f02f9-c494-4859-b61c-649fb066a5c8" />
+
 # 🧩 Fair On-Chain Puzzle: A Beginner's Dive into Solidity
 
 > <img width="1920" height="1020" alt="Screenshot 2025-10-29 140213" src="https://github.com/user-attachments/assets/286f02f9-c494-4859-b61c-649fb066a5c8" />
