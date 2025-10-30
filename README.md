@@ -1,7 +1,9 @@
+> <img width="1920" height="1020" alt="Screenshot 2025-10-29 140213" src="https://github.com/user-attachments/assets/286f02f9-c494-4859-b61c-649fb066a5c8" />
 # 🧩 Fair On-Chain Puzzle: A Beginner's Dive into Solidity
 
 > <img width="1920" height="1020" alt="Screenshot 2025-10-29 140213" src="https://github.com/user-attachments/assets/286f02f9-c494-4859-b61c-649fb066a5c8" />
 
+---
 
 ## 📜 Project Description
 
@@ -43,11 +45,9 @@ Everything — from board creation to turn management — happens **on the block
 ## 🔗 Deployed Smart Contract Link
 
 You can view, compile, and deploy the contract directly using **Remix IDE** here:  
-👉 [**Open in Remix**]
-(https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.30+commit.73712a01.js)
+👉 [**Open in Remix**](https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.30+commit.73712a01.js)
 
 ---
-
 
 ## 🧩 How to Play (in Remix)
 
