@@ -45,7 +45,7 @@ Everything — from board creation to turn management — happens **on the block
 ## 🔗 Deployed Smart Contract Link
 
 You can view, compile, and deploy the contract directly using **Remix IDE** here:  
-👉 [**Open in Remix**](https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.30+commit.73712a01.js)
+👉 [**Open in Remix**](https://celo-sepolia.blockscout.com/address/0x4e5Bc318a30f5e760629BB52da9FeE85e5084cD7?tab=txs)]
 
 ---
 
