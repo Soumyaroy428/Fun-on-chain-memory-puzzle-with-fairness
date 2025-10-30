@@ -45,7 +45,7 @@ Everything — from board creation to turn management — happens **on the block
 You can view, compile, and deploy the contract directly using **Remix IDE** here:  
 👉 [**Open in Remix**]
 (https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.30+commit.73712a01.js)
-]
+
 ---
 
 
